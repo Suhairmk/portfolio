@@ -80216,7 +80216,7 @@ this.aD()},
 v0(){var s=0,r=A.O(t.H)
 var $async$v0=A.P(function(a,b){if(a===1)return A.L(b,r)
 while(true)switch(s){case 0:s=2
-return A.S(A.pz(A.dQ("assets/resume.pdf",0,null)),$async$v0)
+return A.S(A.pz(A.dQ("assets/assets/resume.pdf",0,null)),$async$v0)
 case 2:return A.M(null,r)}})
 return A.N($async$v0,r)},
 N(a){var s=this,r=null,q=t.p
