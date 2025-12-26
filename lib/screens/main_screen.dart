@@ -48,7 +48,7 @@ class _MainScreenState extends State<MainScreen> {
   }
 
   void _downloadResume() async {
-    final url = 'assets/resume.pdf';
+    final url = 'assets/assets/resume.pdf';
     if (!await launchUrl(Uri.parse(url))) {
       // fallback behavior
     }
